@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1B-ZEIYQ2R4Cu_ZxJt5waNGmdPurktM7g/view?usp=sharing" alt="Alif Ahmed Nowshad's GitHub Banner" />
+  <img src="https://i.ibb.co.com/8c7VThB/Banner.png" alt="Alif Ahmed Nowshad's GitHub Banner" />
 </p>
 
 
