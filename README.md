@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://drive.google.com/file/d/1B-ZEIYQ2R4Cu_ZxJt5waNGmdPurktM7g/view?usp=sharing" alt="Alif Ahmed Nowshad's GitHub Banner" />
+</p>
+
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Alif Ahmed Nowshad
 </h1>
